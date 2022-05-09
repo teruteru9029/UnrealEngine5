@@ -7895,3 +7895,15 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.09-01.28.18:524][496]LogPlayLevel: Display: Destroying online subsystem :Context_48
 [2022.05.09-01.28.51:625][475]BlueprintLog: New page: BP_Chara をコンパイル
 [2022.05.09-01.28.51:707][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.05.09-01.29.17:832][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.05.09-01.29.17:835][640]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.050
+[2022.05.09-01.29.17:835][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Chara] ([2] browsable assets)...
+[2022.05.09-01.29.17:857][640]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Chara.BP_Chara]
+[2022.05.09-01.29.17:857][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Chara]
+[2022.05.09-01.29.17:863][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/BP_Chara_Auto6
+[2022.05.09-01.29.17:863][640]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Documents/GitHub/UnrealEngine5/SinkyuSeisaku/Saved/BP_Chara_Auto6CD1CE88D42BCB09217A476A02F9B3D92.tmp' to '../../../../../../Users/nwuser.DA/Documents/GitHub/UnrealEngine5/SinkyuSeisaku/Saved/Autosaves/Game/BP/BP_Chara_Auto6.uasset'
+[2022.05.09-01.29.17:864][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Controller] ([2] browsable assets)...
+[2022.05.09-01.29.17:864][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Controller]
+[2022.05.09-01.29.17:873][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/BP_Controller_Auto6
+[2022.05.09-01.29.17:874][640]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Documents/GitHub/UnrealEngine5/SinkyuSeisaku/Saved/BP_Controller_Auto6C969B75E4EFD5341816B33823BFDFCB7.tmp' to '../../../../../../Users/nwuser.DA/Documents/GitHub/UnrealEngine5/SinkyuSeisaku/Saved/Autosaves/Game/BP/BP_Controller_Auto6.uasset'
+[2022.05.09-01.29.17:875][640]LogFileHelpers: Auto-saving content packages took 0.040
